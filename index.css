@@ -2,4 +2,5 @@ button{
     color: aqua;
     width: 100px;
     height: 60px;
+    border: solid red 3px;
 }
